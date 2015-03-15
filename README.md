@@ -1,7 +1,8 @@
 # easy-synapse-smtpclient
-Automatically exported from code.google.com/p/easy-synapse-smtpclient
 
 An implementation of a (non-visual) email client, based on the great Synapse internet library. Code is for Lazarus 1.0.x / Freepascal.
+
+Automatically exported from code.google.com/p/easy-synapse-smtpclient
 
 It supports most (all?) features that one would usually want in sending emails:
 * Send to one or more receivers
