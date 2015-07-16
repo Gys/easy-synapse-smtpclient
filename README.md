@@ -13,6 +13,8 @@ It supports most (all?) features that one would usually want in sending emails:
 * Add inline image(s), shown in the html body
 * Add attachment(s) 
 
+![test](http://platform.extravertlabs.com/partner/10025/include)
+
 Sample usage:
 
         procedure TForm1.ButtonClick(Sender: TObject);
