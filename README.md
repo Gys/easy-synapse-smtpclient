@@ -13,7 +13,7 @@ It supports most (all?) features that one would usually want in sending emails:
 * Add inline image(s), shown in the html body
 * Add attachment(s) 
 
-![test](http://platform.extravertlabs.com/partner/10025/include.png)
+![test](https://octodex.github.com/images/yaktocat.png)
 
 Sample usage:
 
