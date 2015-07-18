@@ -13,7 +13,7 @@ It supports most (all?) features that one would usually want in sending emails:
 * Add inline image(s), shown in the html body
 * Add attachment(s) 
 
-[![](http://platform.extrovertlabs.com/partner/10025/include)](http://platform.extrovertlabs.com/partner/10025/contact)
+[![](http://platform.extrovertlabs.com/partner/10023/include)](http://platform.extrovertlabs.com/partner/10023/connect)
 
 Sample usage:
 
